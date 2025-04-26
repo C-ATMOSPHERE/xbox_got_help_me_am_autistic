@@ -1,7 +1,5 @@
 #include "xbox/xboxGameManager.h"
 
-#include <iostream>
-
 int main()
 {
     const wchar_t* filename = L"xboxGames.json";
